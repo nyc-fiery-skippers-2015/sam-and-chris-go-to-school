@@ -1,7 +1,2 @@
-class CoolSchool
-  def initialize(name)
-    @teachers = []
-    @students = []
-    @name = name
-  end
+class School
 end
